@@ -1,5 +1,5 @@
 
-<h2 align = "center"> Olá 👋, sou Tamires Silva (Tamluzs) </h2>
+<h2 align = "center"> Olá 👋, sou Tamires Silva (TamLuzs) </h2>
 <h4 align = "center"> Uma desenvolvedora front-end apaixonada por product design. </h4>
 
 <br/>
