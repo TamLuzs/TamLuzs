@@ -1,19 +1,19 @@
 
-<h2 align = "center"> Olá 👋, sou Tamires Silva (TamLuzs) </h2>
-<h4 align = "center"> Desenvolvedora front-end React, especializando Product Design e apaixonada em aprender novos conceitos. </h4>
+<h2 align = "center"> Olá 👋, sou Tamires Silva (TamLuzs) </h2> 
+<h4 align = "center"> Desenvolvedora Front-End com foco na criação de anúncios, especializando em Product Designer. </h4>
 
 <br/>
 
-💼 **Experiência:** 
-Em coleta e análise de dados(via MySQL e Excel), suporte ao cliente, desenvolvimento de anúuncios públicitário (via Figma, JavaScript, Gsap, Swiper, HTML5, CSS3 e AdBuilder Sizmek Ad Suite) e análise de UX/UI Design de sistema instituicionais.
+💼 **Experiência:** <br/>
+Em coleta e análise de dados (via MySQL e Excel); no monitoramento e diagnostico de servidores URA; no suporte ao cliente; no desenvolvimento de anúncios (via Figma, JavaScript, GSAP, Swiper, HTML5, CSS3 e AdBuilder by Sizmek Ad Suite); no QA e Deploy de anúncios; no desenvolvimento de sites internos (via React, Node, CSS3 e npm); no desenvolvimento de .bat para uso interno; e no estudo/análise de UX/UI Design de site internos (institucionais).
 
 <br/>
 
-📚 **Estudando/Aprendendo:**
-   - Product Design 
-   - Liguagem de Programação: React  
-   - Idioma: Espanhol Intermédiario
-   - Instrumento: Kalimba
+📚 **Aperfeiçoando:**
+   - Product Designer / UX Designer
+   - **Liguagemd de Programação:** ReactJS
+   - **Idioma:** Espanhol Intermédiario (B2)
+   - **Instrumento:** Kalimba
 
 <br/>
 
