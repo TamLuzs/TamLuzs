@@ -9,14 +9,6 @@ Em coleta e análise de dados (via MySQL e Excel); no monitoramento e diagnostic
 
 <br/>
 
-📚 **Aperfeiçoando:**
-   - Product Designer / UX Designer
-   - **Liguagemd de Programação:** ReactJS
-   - **Idioma:** Espanhol Intermédiario (B2)
-   - **Instrumento:** Kalimba
-
-<br/>
-
 💻 **Linguagens e Tecnologias**
 <br/>
 
