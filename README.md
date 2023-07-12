@@ -1,6 +1,6 @@
 
 <h2 align = "center"> Olá 👋, sou Tamires Silva </h2> 
-<h4 align = "center"> Desenvolvedora Front-End com foco na criação de anúncios, especializando em Product Designer. </h4>
+<h4 align = "center"> Designer de Anúncio Públicitário HTML5 </h4>
 
 <br/>
 
